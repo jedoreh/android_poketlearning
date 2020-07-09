@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563508915033",
+    "firebase_url": "https://poketlearning-318.firebaseio.com",
+    "project_id": "poketlearning-318",
+    "storage_bucket": "poketlearning-318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563508915033:android:e42f256318a1254d1d7a48",
+        "android_client_info": {
+          "package_name": "com.example.poketlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563508915033-f6oq5vj91ju2nfla165le525ctf1g8s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poketlearning",
+            "certificate_hash": "5884f820d69f4b3a69e18139b578d705acd4fda0"
+          }
+        },
+        {
+          "client_id": "563508915033-sf9fm6og1q5rla35f5ghnq707r6ncg3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRTK-qe8ucmscHaSRED7Sr3KCLMlhxec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563508915033-sf9fm6og1q5rla35f5ghnq707r6ncg3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
